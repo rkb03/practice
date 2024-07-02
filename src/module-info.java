@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Ranjan
+ *
+ */
+module Pattern {
+}
