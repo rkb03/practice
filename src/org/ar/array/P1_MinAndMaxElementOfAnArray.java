@@ -24,6 +24,10 @@ public class P1_MinAndMaxElementOfAnArray {
 		System.out.println(max);
 		System.out.println(min);
 		return max;	
-	
 	}
+
+public void m1(){
+}
+
+
 }
