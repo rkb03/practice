@@ -6,6 +6,7 @@ public class P1_MinAndMaxElementOfAnArray {
 		int b=20;
 		int a=10;
 		int d=100;
+		int c=30;
 		int arr[]= {-5,-7,-1,-2,-3};
 		
 		int max=findMax(arr,5);
