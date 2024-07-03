@@ -3,7 +3,7 @@ package org.ar.array;
 public class P1_MinAndMaxElementOfAnArray {
 
 	public static void main(String[] args) {
-
+		int b=20;
 		int a=10;
 		int arr[]= {-5,-7,-1,-2,-3};
 		
